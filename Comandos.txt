@@ -40,3 +40,17 @@ git pull origin master
 
 Actualizar GitHub (Sincronizar)
 git push origin master
+
+Como crear una nueva rama
+git branch nombre_de_la_rama
+
+Como cambiar a una rama especifica 
+git chekout nombre_de_la_rama
+
+Como mostrar las ramas
+git chekout
+git branch
+
+Como Fusionar ramas o archivos
+git merge nombre_de_archivo 
+git merge nombre_de_la_rama
