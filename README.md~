@@ -23,13 +23,13 @@ Iniciar nuevo repositorio
 git init
 
 crear un archivo
-touch <Nombre_del_Archivo>
+touch Nombre_del_Archivo
 
 Agregar dicho archivo
-git add <Nombre_del_Archivo>
+git add Nombre_del_Archivo
 
 Eliminar un archivo
-git rm <Nombre_del_Archivo>
+git rm Nombre_del_Archivo
 
 Publicar cambios
 git commit -m "informacion del cambio"
