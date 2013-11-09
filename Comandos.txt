@@ -17,6 +17,12 @@ Arrancando tu proyecto:
 Iniciar nuevo repositorio 
 git init
 
+Como clonar en el directorio actual
+git clone direccion_del_repositorio
+
+Comando para enlazar carpeta local y GitHub
+git remote add origin direccion_del_repositorio
+
 crear un archivo
 touch Nombre_del_Archivo
 
