@@ -3,6 +3,9 @@ Aclaraciones y configuraciones especiales
 Configuracion del clonado de un repositorio
 Recuerde que para poder hacer uso de la opcion de clonado y push sin necesidad de introducir su usuario y passwod en cada ocasion es necesario asegurarse que la opcion clone URL esta utilizando el protocolo SSH.
 
+Comando para fijar la URL y los permisos del repositorio para completar la configuracion del clonado de un repositorio
+git remote set-url origin git@github.com:usuario/nombre_del_repositorio.git
+
 Comando para editar archivos en GEdit
 gedit nombre_del_archivo
 
