@@ -55,5 +55,8 @@ Como Fusionar ramas o archivos
 git merge nombre_de_archivo 
 git merge nombre_de_la_rama
 
+Comando para ver la configurcion global
+git config --list
+
 Comando para ignorar copias de archivo con tilde (~)
 git config --global core.excludesfile ~/.gitignore_global

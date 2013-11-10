@@ -1,4 +1,4 @@
-clase_de_github
+Curso de GitHub
 ===============
 
-Este es un repositorio para aprender Github
+Este es un repositorio para aprender GitHub, mediante instrucciones y comandos básicos.
